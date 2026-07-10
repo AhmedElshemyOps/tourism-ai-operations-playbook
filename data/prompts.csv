@@ -1,0 +1,101 @@
+global_number,article_number,prompt_number,title,category,department,risk_level,human_approval_required,version,last_reviewed,source_article
+1,1,1,General Tourism Prompt Builder,Prompt Engineering,Cross-functional Tourism Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-prompting-framework.html
+2,1,2,Prompt Improvement and Rewriting,Prompt Engineering,Cross-functional Tourism Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-prompting-framework.html
+3,1,3,Missing-Information Detection,Prompt Engineering,Cross-functional Tourism Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-prompting-framework.html
+4,1,4,Tourism Context Development,Prompt Engineering,Cross-functional Tourism Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-prompting-framework.html
+5,1,5,Audience and Guest-Profile Definition,Prompt Engineering,Cross-functional Tourism Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-prompting-framework.html
+6,1,6,Output-Format Specification,Prompt Engineering,Cross-functional Tourism Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-prompting-framework.html
+7,1,7,Operational Limitation Setting,Prompt Engineering,Cross-functional Tourism Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-prompting-framework.html
+8,1,8,Fact-Verification Review,Prompt Engineering,Cross-functional Tourism Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-prompting-framework.html
+9,1,9,AI Hallucination Detection,Prompt Engineering,Cross-functional Tourism Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-prompting-framework.html
+10,1,10,Final Prompt-Quality Assessment,Prompt Engineering,Cross-functional Tourism Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-prompting-framework.html
+11,2,1,Pre-Tour Preparation,Front-Line Service,Tour Guiding and Guest-Facing Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/front-line-tourism-ai-toolkit.html
+12,2,2,Destination Storytelling,Front-Line Service,Tour Guiding and Guest-Facing Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/front-line-tourism-ai-toolkit.html
+13,2,3,Commentary Adaptation,Front-Line Service,Tour Guiding and Guest-Facing Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/front-line-tourism-ai-toolkit.html
+14,2,4,Multilingual Guest Communication,Front-Line Service,Tour Guiding and Guest-Facing Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/front-line-tourism-ai-toolkit.html
+15,2,5,Guest Engagement,Front-Line Service,Tour Guiding and Guest-Facing Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/front-line-tourism-ai-toolkit.html
+16,2,6,Delay Communication,Front-Line Service,Tour Guiding and Guest-Facing Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/front-line-tourism-ai-toolkit.html
+17,2,7,Complaint Handling,Front-Line Service,Tour Guiding and Guest-Facing Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/front-line-tourism-ai-toolkit.html
+18,2,8,Ethical Recommendations,Front-Line Service,Tour Guiding and Guest-Facing Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/front-line-tourism-ai-toolkit.html
+19,2,9,Training Role-Play,Front-Line Service,Tour Guiding and Guest-Facing Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/front-line-tourism-ai-toolkit.html
+20,2,10,Post-Tour Reporting,Front-Line Service,Tour Guiding and Guest-Facing Teams,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/front-line-tourism-ai-toolkit.html
+21,3,1,Daily Operations Briefing,DMC Operations,Operations and Dispatch,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/dmc-operations-ai-prompts.html
+22,3,2,Tour-File Review,DMC Operations,Operations and Dispatch,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/dmc-operations-ai-prompts.html
+23,3,3,Guide and Driver Assignment,DMC Operations,Operations and Dispatch,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/dmc-operations-ai-prompts.html
+24,3,4,Supplier Confirmation Checklist,DMC Operations,Operations and Dispatch,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/dmc-operations-ai-prompts.html
+25,3,5,Missing Booking Information Detection,DMC Operations,Operations and Dispatch,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/dmc-operations-ai-prompts.html
+26,3,6,Daily Movement Planning,DMC Operations,Operations and Dispatch,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/dmc-operations-ai-prompts.html
+27,3,7,Operational Risk Assessment,DMC Operations,Operations and Dispatch,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/dmc-operations-ai-prompts.html
+28,3,8,Disruption Response Planning,DMC Operations,Operations and Dispatch,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/dmc-operations-ai-prompts.html
+29,3,9,Shift Handover,DMC Operations,Operations and Dispatch,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/dmc-operations-ai-prompts.html
+30,3,10,End-of-Day Operations Reporting,DMC Operations,Operations and Dispatch,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/dmc-operations-ai-prompts.html
+31,4,1,Hotel Pickup Sequencing,Transport and Dispatch,"Fleet, Transport and Dispatch",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-transport-dispatch-ai-prompts.html
+32,4,2,Multi-Zone Pickup Planning,Transport and Dispatch,"Fleet, Transport and Dispatch",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-transport-dispatch-ai-prompts.html
+33,4,3,Vehicle Selection by Passenger Capacity,Transport and Dispatch,"Fleet, Transport and Dispatch",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-transport-dispatch-ai-prompts.html
+34,4,4,Driver Briefing Preparation,Transport and Dispatch,"Fleet, Transport and Dispatch",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-transport-dispatch-ai-prompts.html
+35,4,5,Guide and Driver Coordination,Transport and Dispatch,"Fleet, Transport and Dispatch",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-transport-dispatch-ai-prompts.html
+36,4,6,Child-Seat and Accessibility Checks,Transport and Dispatch,"Fleet, Transport and Dispatch",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-transport-dispatch-ai-prompts.html
+37,4,7,Late-Vehicle Response,Transport and Dispatch,"Fleet, Transport and Dispatch",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-transport-dispatch-ai-prompts.html
+38,4,8,Route-Risk Analysis,Transport and Dispatch,"Fleet, Transport and Dispatch",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-transport-dispatch-ai-prompts.html
+39,4,9,Separate Drop-Off Planning,Transport and Dispatch,"Fleet, Transport and Dispatch",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-transport-dispatch-ai-prompts.html
+40,4,10,Daily Fleet-Performance Reporting,Transport and Dispatch,"Fleet, Transport and Dispatch",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-transport-dispatch-ai-prompts.html
+41,5,1,New Tour Concept Development,Product Development,Tourism Product and Destination Management,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-product-development-ai-prompts.html
+42,5,2,Existing-Product Review,Product Development,Tourism Product and Destination Management,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-product-development-ai-prompts.html
+43,5,3,Tourism Product-Gap Analysis,Product Development,Tourism Product and Destination Management,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-product-development-ai-prompts.html
+44,5,4,Family-Tour Adaptation,Product Development,Tourism Product and Destination Management,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-product-development-ai-prompts.html
+45,5,5,Luxury-Experience Adaptation,Product Development,Tourism Product and Destination Management,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-product-development-ai-prompts.html
+46,5,6,Senior and Accessible Product Design,Product Development,Tourism Product and Destination Management,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-product-development-ai-prompts.html
+47,5,7,Seasonal Tourism Planning,Product Development,Tourism Product and Destination Management,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-product-development-ai-prompts.html
+48,5,8,Event-Based Experience Development,Product Development,Tourism Product and Destination Management,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-product-development-ai-prompts.html
+49,5,9,Competitor Product Comparison,Product Development,Tourism Product and Destination Management,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-product-development-ai-prompts.html
+50,5,10,Product Feasibility Assessment,Product Development,Tourism Product and Destination Management,Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-product-development-ai-prompts.html
+51,6,1,One-Day City Itinerary,Itinerary Planning,"Product, Reservations and Operations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-itinerary-ai-prompts.html
+52,6,2,Multi-Day Destination Programme,Itinerary Planning,"Product, Reservations and Operations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-itinerary-ai-prompts.html
+53,6,3,Stopover Itinerary,Itinerary Planning,"Product, Reservations and Operations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-itinerary-ai-prompts.html
+54,6,4,Cruise-Passenger Itinerary,Itinerary Planning,"Product, Reservations and Operations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-itinerary-ai-prompts.html
+55,6,5,Family Itinerary,Itinerary Planning,"Product, Reservations and Operations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-itinerary-ai-prompts.html
+56,6,6,Luxury Itinerary,Itinerary Planning,"Product, Reservations and Operations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-itinerary-ai-prompts.html
+57,6,7,Accessible Itinerary,Itinerary Planning,"Product, Reservations and Operations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-itinerary-ai-prompts.html
+58,6,8,Weather Backup Plan,Itinerary Planning,"Product, Reservations and Operations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-itinerary-ai-prompts.html
+59,6,9,Itinerary Timing and Feasibility Audit,Itinerary Planning,"Product, Reservations and Operations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-itinerary-ai-prompts.html
+60,6,10,Final Itinerary Quality Review,Itinerary Planning,"Product, Reservations and Operations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-itinerary-ai-prompts.html
+61,7,1,Tour Quotation Structure,Sales and Quotation,"B2B Sales, Contracting and Quotations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-sales-quotation-ai-prompts.html
+62,7,2,B2B Travel Proposal,Sales and Quotation,"B2B Sales, Contracting and Quotations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-sales-quotation-ai-prompts.html
+63,7,3,Initial Partnership Email,Sales and Quotation,"B2B Sales, Contracting and Quotations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-sales-quotation-ai-prompts.html
+64,7,4,Proposal Follow-Up,Sales and Quotation,"B2B Sales, Contracting and Quotations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-sales-quotation-ai-prompts.html
+65,7,5,Rate-Update Communication,Sales and Quotation,"B2B Sales, Contracting and Quotations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-sales-quotation-ai-prompts.html
+66,7,6,Client Discovery Questions,Sales and Quotation,"B2B Sales, Contracting and Quotations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-sales-quotation-ai-prompts.html
+67,7,7,Sales-Call Preparation,Sales and Quotation,"B2B Sales, Contracting and Quotations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-sales-quotation-ai-prompts.html
+68,7,8,Objection-Handling Practice,Sales and Quotation,"B2B Sales, Contracting and Quotations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-sales-quotation-ai-prompts.html
+69,7,9,Inactive-Account Reactivation,Sales and Quotation,"B2B Sales, Contracting and Quotations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-sales-quotation-ai-prompts.html
+70,7,10,Commercial Proposal Review,Sales and Quotation,"B2B Sales, Contracting and Quotations",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-sales-quotation-ai-prompts.html
+71,8,1,Pre-Arrival Welcome Message,Guest Experience,Customer Experience and Service Recovery,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/guest-experience-ai-prompts.html
+72,8,2,Pickup Confirmation,Guest Experience,Customer Experience and Service Recovery,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/guest-experience-ai-prompts.html
+73,8,3,What-to-Bring Reminder,Guest Experience,Customer Experience and Service Recovery,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/guest-experience-ai-prompts.html
+74,8,4,Delay Notification,Guest Experience,Customer Experience and Service Recovery,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/guest-experience-ai-prompts.html
+75,8,5,Complaint Response,Guest Experience,Customer Experience and Service Recovery,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/guest-experience-ai-prompts.html
+76,8,6,Service-Recovery Plan,Guest Experience,Customer Experience and Service Recovery,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/guest-experience-ai-prompts.html
+77,8,7,Post-Tour Thank-You Message,Guest Experience,Customer Experience and Service Recovery,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/guest-experience-ai-prompts.html
+78,8,8,Public Review Response,Guest Experience,Customer Experience and Service Recovery,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/guest-experience-ai-prompts.html
+79,8,9,Guest-Feedback Analysis,Guest Experience,Customer Experience and Service Recovery,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/guest-experience-ai-prompts.html
+80,8,10,Guest-Journey Improvement Report,Guest Experience,Customer Experience and Service Recovery,High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/guest-experience-ai-prompts.html
+81,9,1,SOP Creation,Quality and SOP,"Quality, Training and Operational Excellence",Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-quality-sop-ai-prompts.html
+82,9,2,SOP Review and Improvement,Quality and SOP,"Quality, Training and Operational Excellence",Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-quality-sop-ai-prompts.html
+83,9,3,Tourism Process Mapping,Quality and SOP,"Quality, Training and Operational Excellence",Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-quality-sop-ai-prompts.html
+84,9,4,Five Whys Analysis,Quality and SOP,"Quality, Training and Operational Excellence",Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-quality-sop-ai-prompts.html
+85,9,5,Fishbone Analysis,Quality and SOP,"Quality, Training and Operational Excellence",Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-quality-sop-ai-prompts.html
+86,9,6,Incident-Report Preparation,Quality and SOP,"Quality, Training and Operational Excellence",Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-quality-sop-ai-prompts.html
+87,9,7,Corrective and Preventive Action Planning,Quality and SOP,"Quality, Training and Operational Excellence",Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-quality-sop-ai-prompts.html
+88,9,8,Operational Audit Checklist,Quality and SOP,"Quality, Training and Operational Excellence",Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-quality-sop-ai-prompts.html
+89,9,9,Training-Needs Analysis,Quality and SOP,"Quality, Training and Operational Excellence",Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-quality-sop-ai-prompts.html
+90,9,10,Monthly Quality-Performance Summary,Quality and SOP,"Quality, Training and Operational Excellence",Medium,True,1.0.0,2026-07-10,https://ahmedqualityops.com/tourism-quality-sop-ai-prompts.html
+91,10,1,AI Use-Case Risk Assessment,Responsible AI Governance,"Management, Quality, Privacy and AI Governance",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/responsible-ai-tourism-guide.html
+92,10,2,AI Output Verification,Responsible AI Governance,"Management, Quality, Privacy and AI Governance",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/responsible-ai-tourism-guide.html
+93,10,3,Guest-Data Privacy Review,Responsible AI Governance,"Management, Quality, Privacy and AI Governance",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/responsible-ai-tourism-guide.html
+94,10,4,Cultural-Sensitivity Review,Responsible AI Governance,"Management, Quality, Privacy and AI Governance",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/responsible-ai-tourism-guide.html
+95,10,5,Management Approval Checklist,Responsible AI Governance,"Management, Quality, Privacy and AI Governance",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/responsible-ai-tourism-guide.html
+96,10,6,Prompt-Library Governance,Responsible AI Governance,"Management, Quality, Privacy and AI Governance",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/responsible-ai-tourism-guide.html
+97,10,7,AI Incident Reporting,Responsible AI Governance,"Management, Quality, Privacy and AI Governance",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/responsible-ai-tourism-guide.html
+98,10,8,Employee AI Usage Policy,Responsible AI Governance,"Management, Quality, Privacy and AI Governance",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/responsible-ai-tourism-guide.html
+99,10,9,AI Training Assessment,Responsible AI Governance,"Management, Quality, Privacy and AI Governance",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/responsible-ai-tourism-guide.html
+100,10,10,Quarterly AI Governance Review,Responsible AI Governance,"Management, Quality, Privacy and AI Governance",High,True,1.0.0,2026-07-10,https://ahmedqualityops.com/responsible-ai-tourism-guide.html

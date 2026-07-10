@@ -1,0 +1,102 @@
+[
+  {
+    "article_number": 1,
+    "title": "The Tourism Prompting Framework: How to Write Professional AI Prompts for Travel and Tourism",
+    "subtitle": "A Practical Guide to Roles, Context, Guest Profiles, Operational Data, Output Formats, and Verification Rules",
+    "category": "Prompt Engineering",
+    "target_audience": "Tourism professionals, trainers, managers and AI champions",
+    "prompt_count": 10,
+    "markdown_path": "playbook/01-tourism-prompting-framework.md",
+    "web_url": "https://ahmedqualityops.com/tourism-prompting-framework.html"
+  },
+  {
+    "article_number": 2,
+    "title": "The Front-Line Tourism AI Toolkit: 10 Professional Prompt Templates for Tour Guides and Guest-Facing Teams",
+    "subtitle": "Ready-to-Use AI Prompts for Tour Preparation, Destination Storytelling, Guest Engagement, Complaints, Multilingual Communication, and Service Excellence",
+    "category": "Front-Line Service",
+    "target_audience": "Tour guides, hotel representatives, concierge teams and attraction staff",
+    "prompt_count": 10,
+    "markdown_path": "playbook/02-front-line-tourism-ai-toolkit.md",
+    "web_url": "https://ahmedqualityops.com/front-line-tourism-ai-toolkit.html"
+  },
+  {
+    "article_number": 3,
+    "title": "The DMC Operations AI Toolkit: 10 Ready-to-Use Prompts for Daily Tour Operations",
+    "subtitle": "Professional AI Templates for Dispatch, Guide Assignment, Supplier Coordination, Tour Monitoring, Delays, and Operational Reporting",
+    "category": "DMC Operations",
+    "target_audience": "DMC operations managers, coordinators, dispatchers and duty managers",
+    "prompt_count": 10,
+    "markdown_path": "playbook/03-dmc-operations-ai-toolkit.md",
+    "web_url": "https://ahmedqualityops.com/dmc-operations-ai-prompts.html"
+  },
+  {
+    "article_number": 4,
+    "title": "The Tourism Transport and Dispatch AI Toolkit: 10 Prompts for Smarter Pickup, Routing, and Fleet Coordination",
+    "subtitle": "Ready-to-Use AI Templates for Hotel Pickup Planning, Vehicle Allocation, Driver Briefings, Route Risks, and Transport Reporting",
+    "category": "Transport and Dispatch",
+    "target_audience": "Transport coordinators, dispatchers, fleet supervisors, drivers and guides",
+    "prompt_count": 10,
+    "markdown_path": "playbook/04-tourism-transport-dispatch-ai-toolkit.md",
+    "web_url": "https://ahmedqualityops.com/tourism-transport-dispatch-ai-prompts.html"
+  },
+  {
+    "article_number": 5,
+    "title": "The Tourism Product Development AI Toolkit: 10 Prompts for Building Better Tours and Experiences",
+    "subtitle": "Professional AI Templates for Itinerary Design, Product Review, Market Adaptation, Seasonal Planning, and Experience Innovation",
+    "category": "Product Development",
+    "target_audience": "Product managers, tour operators, DMCs and destination professionals",
+    "prompt_count": 10,
+    "markdown_path": "playbook/05-tourism-product-development-ai-toolkit.md",
+    "web_url": "https://ahmedqualityops.com/tourism-product-development-ai-prompts.html"
+  },
+  {
+    "article_number": 6,
+    "title": "The Tourism Itinerary AI Toolkit: 10 Prompts for Realistic and Guest-Centred Travel Planning",
+    "subtitle": "Ready-to-Use AI Templates for Multi-Day Programs, Timing, Transfers, Meals, Attractions, Guest Preferences, and Operational Feasibility",
+    "category": "Itinerary Planning",
+    "target_audience": "Itinerary planners, product teams, travel designers and operations teams",
+    "prompt_count": 10,
+    "markdown_path": "playbook/06-tourism-itinerary-ai-toolkit.md",
+    "web_url": "https://ahmedqualityops.com/tourism-itinerary-ai-prompts.html"
+  },
+  {
+    "article_number": 7,
+    "title": "The Tourism Sales and Quotation AI Toolkit: 10 Prompts for B2B Proposals and Commercial Communication",
+    "subtitle": "Professional AI Templates for Tour Quotations, Sales Emails, Client Proposals, Follow-Ups, Objection Handling, and Partnership Development",
+    "category": "Sales and Quotation",
+    "target_audience": "Travel sales teams, quotation specialists, account managers and contracting teams",
+    "prompt_count": 10,
+    "markdown_path": "playbook/07-tourism-sales-quotation-ai-toolkit.md",
+    "web_url": "https://ahmedqualityops.com/tourism-sales-quotation-ai-prompts.html"
+  },
+  {
+    "article_number": 8,
+    "title": "The Guest Experience AI Toolkit: 10 Prompts for Communication, Complaints, and Service Recovery",
+    "subtitle": "Ready-to-Use AI Templates for Pre-Arrival Messages, Tour Updates, Guest Complaints, Review Analysis, and Post-Experience Follow-Up",
+    "category": "Guest Experience",
+    "target_audience": "Guest-experience teams, operations managers, service teams and supervisors",
+    "prompt_count": 10,
+    "markdown_path": "playbook/08-guest-experience-ai-toolkit.md",
+    "web_url": "https://ahmedqualityops.com/guest-experience-ai-prompts.html"
+  },
+  {
+    "article_number": 9,
+    "title": "The Tourism Quality and SOP AI Toolkit: 10 Prompts for Process Improvement and Operational Excellence",
+    "subtitle": "Professional AI Templates for SOP Development, Root-Cause Analysis, Incident Reporting, Training, Audits, and Corrective Actions",
+    "category": "Quality and SOP",
+    "target_audience": "Quality managers, trainers, process owners and tourism operations leaders",
+    "prompt_count": 10,
+    "markdown_path": "playbook/09-tourism-quality-sop-ai-toolkit.md",
+    "web_url": "https://ahmedqualityops.com/tourism-quality-sop-ai-prompts.html"
+  },
+  {
+    "article_number": 10,
+    "title": "Responsible AI for Tourism: A Practical Governance Guide for Travel Companies",
+    "subtitle": "How to Protect Guest Data, Verify AI Outputs, Control Prompt Usage, Reduce Risk, and Maintain Human Accountability",
+    "category": "Responsible AI Governance",
+    "target_audience": "Tourism leaders, managers, trainers, privacy teams and AI governance owners",
+    "prompt_count": 10,
+    "markdown_path": "playbook/10-responsible-ai-for-tourism.md",
+    "web_url": "https://ahmedqualityops.com/responsible-ai-tourism-guide.html"
+  }
+]

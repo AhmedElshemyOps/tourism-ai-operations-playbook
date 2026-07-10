@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this playbook, please cite it using the metadata below."
+title: "Tourism AI Operations Playbook"
+type: dataset
+authors:
+  - family-names: "Mahmoud"
+    given-names: "Ahmed"
+version: "1.0.0"
+date-released: "2026-07-10"
+url: "https://ahmedqualityops.com/tourism-ai-operations-playbook.html"
+license: "CC-BY-4.0"
+abstract: "A professional library of 100 responsible AI prompts, templates and workflows for modern tourism teams."
+keywords:
+  - tourism
+  - artificial intelligence
+  - prompt engineering
+  - DMC operations
+  - tour guides
+  - destination management
+  - guest experience
+  - travel technology
