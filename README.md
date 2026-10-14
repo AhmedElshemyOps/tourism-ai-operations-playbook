@@ -98,6 +98,18 @@ Tourism professionals, trainers, operators, product specialists and responsible-
 
 Do not submit real guest data, confidential company documents, supplier rates, private contracts or copyrighted material you do not control.
 
+### Keeping the prompt library and inventories in sync
+
+The individual Markdown prompts are rendered from `data/prompts.json`; the chapter records in `data/articles.json` supply category navigation. After an approved dataset update, run:
+
+```sh
+python3 tools/render_prompt_library.py
+python3 tools/refresh_inventory.py
+python3 tools/validate_repository.py
+```
+
+Commit the generated prompt files, manifest and checksums together with the source change. The validator checks exact prompt text, metadata, local references and packaging inventories. The Repository Quality workflow runs the same validation on pushes and pull requests.
+
 ## Citation
 
 Suggested citation:

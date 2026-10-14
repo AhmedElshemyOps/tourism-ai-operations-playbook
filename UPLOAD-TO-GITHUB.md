@@ -9,6 +9,8 @@
 5. Open the extracted repository folder.
 6. On the empty GitHub repository page, choose **uploading an existing file**.
 7. Drag all files and folders from inside the extracted folder into GitHub. Upload the contents, not the outer ZIP file.
+
+   Ensure hidden files are included, especially `.github/`, `.gitattributes`, `.gitignore` and `docs/.nojekyll`. If the browser upload omits them, use the Git command-line method below. Before uploading a changed package, regenerate the prompt library and inventories and run the validator as described in `CONTRIBUTING.md`.
 8. Commit with the message: `Publish Tourism AI Operations Playbook v1.0.0`.
 9. Open the Actions tab and confirm that **Repository Quality** passes.
 10. Configure the repository details using `GITHUB-REPOSITORY-SETTINGS.md`.

@@ -27,8 +27,8 @@ Thank you for helping improve the Tourism AI Operations Playbook.
 1. Search existing issues.
 2. Open a structured issue describing the tourism problem.
 3. Fork the repository and create a focused branch.
-4. Update the relevant chapter, individual prompt file and data index when applicable.
-5. Run `python tools/validate_repository.py`.
+4. Update the relevant chapter and data indexes when applicable. Individual prompt Markdown files are generated from `data/prompts.json`.
+5. Run `python3 tools/render_prompt_library.py`, `python3 tools/refresh_inventory.py`, then `python3 tools/validate_repository.py`. Include the generated files and inventories in your pull request.
 6. Submit a pull request using the provided template.
 
 ## Prompt quality standard

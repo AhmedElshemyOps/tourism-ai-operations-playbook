@@ -1,0 +1,17 @@
+name: Improve the playbook
+description: Suggest a correction or improvement using non-confidential examples.
+title: "[Improvement] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and affected files
+      description: Explain the issue. Do not include guest data, confidential records or credentials.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement and supporting evidence
+    validations:
+      required: true

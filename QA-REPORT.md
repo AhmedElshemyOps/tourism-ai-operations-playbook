@@ -1,68 +1,27 @@
 # Quality Assurance Report
 
 **Project:** Tourism AI Operations Playbook  
-**Version:** 1.0.0  
-**Review date:** 2026-07-10
+**Content audit date:** 2026-10-14
 
-## Content and structure
+## Scope
 
-- 10 complete Playbook chapters confirmed
-- 100 individual prompt files confirmed
-- 10 prompt categories confirmed
-- 100 JSON prompt records confirmed
-- Unique prompt IDs confirmed
-- Required prompt metadata confirmed
-- JSON and CSV indexes generated
-- Repository README, start guide, roadmap, changelog and citation files confirmed
+The published repository was missing its individual prompt library and hidden configuration files. The 100 Markdown prompt files and category indexes have been reconstructed from the existing JSON dataset, preserving the prompt text and metadata. Contribution templates and a Repository Quality workflow are supplied in this correction.
 
-## Link and file validation
+## Reproducible repository checks
 
-- Local Markdown links checked
-- GitHub Pages HTML references checked
-- Required repository files checked
-- Missing local references: 0
-- Validator result: passed
+Run `python3 tools/validate_repository.py` from the repository root. The check covers:
 
-## Code and metadata
+- 10 chapter records with existing Markdown paths;
+- 100 unique JSON prompt records and 100 individual prompt files;
+- exact copy-ready prompt text and metadata agreement with the dataset;
+- local Markdown links and HTML file references;
+- tracked-file manifest paths and byte sizes;
+- SHA-256 checksums for the files listed in the checksum inventory.
 
-- Python validation script compiled successfully
-- Playbook JavaScript syntax checked successfully
-- GitHub Actions YAML parsed successfully
-- Issue-template YAML parsed successfully
-- `CITATION.cff` YAML parsed successfully
+`MANIFEST.txt` excludes itself and `SHA256SUMS.txt`; `SHA256SUMS.txt` excludes itself and includes the manifest. This avoids self-referential inventories. Git-tracked files plus proposed new repository files form the inventory; local caches and `.git/` are excluded.
 
-## Browser interaction test
+## Limits
 
-The static GitHub Pages edition was tested in Chromium with production CSS and JavaScript inlined for isolated execution.
+The correction validates repository content. Browser interaction, mobile layout, external links and the deployed website have not been re-tested as part of this content correction. Historical browser checks from the original package do not establish the behavior of this revision. The new GitHub workflow must run on the pull request before its result can be reported as passing.
 
-### Desktop
-
-- Playbook page title loaded correctly
-- 10 series cards rendered
-- DMC Operations article rendered 10 prompt cards
-- Copy Prompt control produced accessible status feedback
-- Horizontal overflow: none
-
-### Mobile — 390 × 844
-
-- Article rendered without horizontal overflow
-- Mobile navigation opened through the menu control
-- `aria-expanded` updated correctly
-- Escape key closed the menu
-- JavaScript console errors: 0
-
-## Packaging
-
-- Hidden GitHub configuration files included
-- GitHub Pages `/docs` folder included
-- Release notes included
-- Upload instructions included
-- Repository manifest included
-
-## Responsible-use review
-
-- Human approval is required throughout the prompt library
-- Privacy warnings are included
-- Dynamic tourism information requires verification
-- Confidential guest, supplier, employee and payment data is restricted
-- Legal, privacy and cybersecurity guidance is recommended where required
+Responsible-use policies and human approval requirements remain in the existing prompt text.

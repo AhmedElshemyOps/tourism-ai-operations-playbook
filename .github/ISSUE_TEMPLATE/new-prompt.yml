@@ -1,0 +1,17 @@
+name: Propose a prompt
+description: Describe a tourism use case and its human verification controls.
+title: "[Prompt] "
+body:
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use case, audience and operational objective
+      description: Use fictional examples. Exclude personal data and confidential information.
+    validations:
+      required: true
+  - type: textarea
+    id: controls
+    attributes:
+      label: Inputs, outputs, verification and accountable human approver
+    validations:
+      required: true
